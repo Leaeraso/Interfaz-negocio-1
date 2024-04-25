@@ -52,3 +52,11 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+# Codigos de lanzamiento
+
+1. npm create astro@latest
+
+2. npx astro add tailwind
+
+3. npm i tailwindcss-animated && require('tailwindcss-animated')
